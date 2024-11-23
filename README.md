@@ -14,11 +14,11 @@ Você pode testar esse código que qualquer IDE compatível com Pyhton, como VSC
 
 ## 🛠️ Construído com
 
-O código foi desenvolvido 100% com a linguagem Pyhton e usamos recursos como:
--Funções
--Condicionais
--Loops
--Listas e Variáveis
+O código foi desenvolvido 100% com a linguagem Pyhton e usamos recursos como:\
+-Funções\
+-Condicionais\
+-Loops\
+-Listas e Variáveis\
 
 ## ✒️ Autores
 
