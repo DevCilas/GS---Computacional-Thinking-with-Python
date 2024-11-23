@@ -1,5 +1,5 @@
 # LightSaver
-##Defina metas, cumpra objetivos
+### Defina metas, cumpra objetivos
 Essa ferramenta foi criada para estimular a econonomia de energia e contribuir com o combate a crise energética.\
 Troque pontos pro benefícios e ajude a tornar o mundo um lugar cada vez melhor.
 
