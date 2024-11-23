@@ -1,6 +1,7 @@
 # LightSaver
-
-Esse ferramenta foi criada para estimular a econonomia de energia e contribuir com o combate a crise energética.
+###Defina metas, cumpra objetivos
+Essa ferramenta foi criada para estimular a econonomia de energia e contribuir com o combate a crise energética.\
+Troque pontos pro benefícios e ajude a tornar o mundo um lugar cada vez melhor.
 
 ## 🚀 Código
 
@@ -13,23 +14,23 @@ Você pode testar esse código que qualquer IDE compatível com Pyhton, como VSC
 
 ## 🛠️ Construído com
 
-O código for 100% desenvolvido com a linguagem pyhton e usamos recursos como:
+O código foi desenvolvido 100% com a linguagem Pyhton e usamos recursos como:
 -Funções
 -Condicionais
 -Loops
--Listas e Varáveis
+-Listas e Variáveis
 
 ## ✒️ Autores
 
-O código foi desenvolvido por mim :) Cilas Macedo - - [autores](https://github.com/DevCilas)\
-E pelo meu grande amigo e fantástico desenvolvedor Pedro Arão- [autores](https://github.com/pedrobaquini)
+O código foi desenvolvido por mim, Cilas Macedo :)  - [Perfil](https://github.com/DevCilas)\
+E pelo meu grande amigo e fantástico desenvolvedor, Pedro Arão - [Perfil](https://github.com/pedrobaquini)
 
 
 
 ## 🎁 Expressões de gratidão
 
 Gostaria de ressaltar minha gratidão a minha dupla - Pedro Arão - [autores](https://github.com/pedrobaquini)\
-E ao nosso professor Danilo Elias - Linkedin - https://www.linkedin.com/in/danilo-rodrigues-de-assis-elias-msc-081843205
+E ao nosso professor Danilo Elias - [Linkedin](https://www.linkedin.com/in/danilo-rodrigues-de-assis-elias-msc-081843205)
 
 
 
