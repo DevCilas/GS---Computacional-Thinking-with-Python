@@ -18,7 +18,7 @@ O código foi desenvolvido 100% com a linguagem Pyhton e usamos recursos como:\
 -Funções\
 -Condicionais\
 -Loops\
--Listas e Variáveis\
+-Listas e Variáveis
 
 ## ✒️ Autores
 
